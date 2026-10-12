@@ -1,0 +1,19 @@
+{
+  "provenance": "Saved outputs from supplied coursework notebook; not recomputed in this preparation",
+  "raw_records": 16715,
+  "recent_period": [
+    2013,
+    2016
+  ],
+  "recent_records": 2233,
+  "sales_unit": "million copies",
+  "ps4_total_sales": 314.14,
+  "action_total_sales": 321.87,
+  "ps4_critic_sales_correlation": 0.40656790206178095,
+  "ps4_user_sales_correlation": -0.031957110204556376,
+  "welch_tests": {
+    "alpha": 0.05,
+    "xbox_one_vs_pc_p": 0.14759594013430463,
+    "action_vs_sports_p": 1.4460039700704315e-20
+  }
+}
